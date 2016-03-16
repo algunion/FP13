@@ -58,7 +58,6 @@
     <Compile Include="FunctionalTrie.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
-    <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
